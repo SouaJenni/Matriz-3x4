@@ -35,7 +35,7 @@ public class Matriz3x4 {
             System.out.println( );
         }
         
-        scanner.close();
+        scanner.close(); //isso fecha o scanner
     }
     
 }
